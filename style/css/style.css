@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    
+}
+
+#logo-konas
+{
+    width: 8rem;
+}
+
+.jumbotron
+{
+    height: 80vh;
+    background-image: url("https://www.fourstops.sg/wp-content/uploads/2019/08/Fourstops_Corporate_Photobooth-37-1000x667.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
