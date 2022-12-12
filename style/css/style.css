@@ -24,3 +24,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.kotak
+{
+    width: 22rem;
+    height: 22rem;
+    background-color: grey;
+}
