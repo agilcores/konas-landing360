@@ -31,3 +31,9 @@
     height: 22rem;
     background-color: grey;
 }
+
+.footer 
+{
+    height: 300px;
+    background-color: rgb(16, 16, 16)
+}
