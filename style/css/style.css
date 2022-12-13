@@ -53,8 +53,25 @@
     font-family: 'Inter', sans-serif;
 }
 
+.list-text ul li
+{
+    font-family: 'Inter', sans-serif;
+    list-style-type: none;
+    color: white;
+}
+
 .footer-text .icon
 {
     color: white;
-    
+}
+
+.sosmed ul li a
+{
+    color: white;
+}
+
+.sosmed ul li
+{
+    list-style-type: none;
+    display: inline;
 }
