@@ -131,6 +131,36 @@
     font-weight: bold;
 }
 
+.uang-tambahan
+{
+    color: #404040;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.uang-tambahan h1
+{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.hubungi-kami
+{
+    color: #404040;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hubungi-kami h1
+{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.button-mau
+{
+    background-color: #d73d3d;
+    color: white;
+}
+
 .footer 
 {
     width: 100%;
