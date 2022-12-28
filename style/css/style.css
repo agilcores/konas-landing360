@@ -23,10 +23,23 @@
 {
     font-family: 'Montserrat', sans-serif;
     height: 100vh;
-    background-image: url("../../assets/img/bg.png");
+    /* background-image: url("../../assets/img/bg.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
 }
+
+#myVideo {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    object-position: left;
+
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
 
 /* carousel */
 .carousel-indicators li {
