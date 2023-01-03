@@ -268,5 +268,18 @@
         bottom: 0;
         z-index: -1;
       }
+
+      .video-tumb
+    {
+        width: 100%;
+        height: 30rem;
+    }
+
+    .video-tumb img
+    {
+        width: 100%;
+        height: 100%;
+        
+    }
     
   }
