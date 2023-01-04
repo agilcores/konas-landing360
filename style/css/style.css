@@ -156,12 +156,12 @@
     background: linear-gradient(90deg, rgba(240,230,140,1) 0%, rgba(218,165,32,1) 49%, rgba(205,133,63,1) 100%);
 }
 
+
+
 .gold-btn a
 {
-    background: #A67C00;
-    background: linear-gradient(to right, #A67C00 0%, #BF9B30 30%, #FFBF00 60%, 	#ffcf40 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #A67C00;
+
 }
 
 .text-bg h2
