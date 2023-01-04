@@ -42,7 +42,7 @@
     position: absolute;
     background-color: #15151577;
     width: 100%;
-    height: 100vh;
+    height: 100%;
     left: 0;
     right: 0;
     top: 0;
@@ -114,7 +114,7 @@
 .video-tumb
 {
     width: 100%;
-    height: 30rem;
+    height: 100%;
 }
 
 .video-tumb img
@@ -143,16 +143,25 @@
     color: #e54c4c;
 }
 
-.gold
+.paket
+{
+    background: #A67C00;
+    background: linear-gradient(to right, #A67C00 0%, #BF9B30 30%, #FFBF00 60%, 	#ffcf40 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.bg-lights
 {
     background: rgb(240,230,140);
     background: linear-gradient(90deg, rgba(240,230,140,1) 0%, rgba(218,165,32,1) 49%, rgba(205,133,63,1) 100%);
 }
 
-.gold-btn
+.gold-btn a
 {
-    background: rgb(240,230,140);
-    background: linear-gradient(90deg, rgba(240,230,140,1) 0%, rgba(218,165,32,1) 49%, rgba(205,133,63,1) 100%);
+    background: #A67C00;
+    background: linear-gradient(to right, #A67C00 0%, #BF9B30 30%, #FFBF00 60%, 	#ffcf40 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .text-bg h2
@@ -269,7 +278,7 @@
         z-index: -1;
       }
 
-      .video-tumb
+      /* .video-tumb
     {
         width: 100%;
         height: 30rem;
@@ -280,6 +289,6 @@
         width: 100%;
         height: 100%;
         
-    }
+    } */
     
   }
